@@ -9,7 +9,7 @@
 
 
 <p align="center">
-<img src = "https://media.giphy.com/media/ITdoHFzxjDjfDCSLsG/giphy.gif?cid=ecf05e47nysrbrhr9avl54fzwsg8c6byqg9tjy270el0zs4y&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img src = "https://www.pinterest.com/pin/brain-gif-brain-discover-share-gifs--719379740487117604/">
 </p >
 
 
