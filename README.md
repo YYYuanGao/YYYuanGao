@@ -9,7 +9,7 @@
 
 
 <p align="center">
-<img src = "https://www.pinterest.com/pin/brain-gif-brain-discover-share-gifs--719379740487117604/">
+<img src = "https://miykael.github.io/nipype-beginner-s-guide/_images/GM.gif">
 </p >
 
 
