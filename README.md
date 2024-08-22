@@ -7,6 +7,13 @@
 
 - 📫 How to reach me : yuangaoy@outlook.com / dreamergyy@gmail.com / yyyuangao@zju.edu.cn
 
+<p align="center">
+  < img src="https://giphy.com/gifs/julie-feydel-3o7WTNONJObP0lZBrW" width="100">
+</p >
+
+
+
+
 <!---
 YYYuanGao/YYYuanGao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
