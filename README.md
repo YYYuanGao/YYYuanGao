@@ -7,9 +7,7 @@
 
 - 📫 How to reach me : yuangaoy@outlook.com / dreamergyy@gmail.com / yyyuangao@zju.edu.cn
 
-<p align="center">
-  < img src="https://giphy.com/gifs/julie-feydel-3o7WTNONJObP0lZBrW" width="100">
-</p >
+
 
 
 
