@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YYYuanGao, you can call me Yuan~
+- 👋 Hi, I’m @YYYuanGao, you can call me Yuan.
 - 🌱 I’m currently learning cognitive neuroscience （using 7T fmri)
 - 📫 How to reach me : yyyuangao@outlook.com / dreamergyy@gmail.com 
 
