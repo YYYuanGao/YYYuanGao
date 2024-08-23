@@ -9,7 +9,7 @@
 
 
 <p align="center">
-<img src = "https://miykael.github.io/nipype-beginner-s-guide/_images/GM.gif">
+<img src = "https://github.com/YYYuanGao/gif_brain/blob/master/yuan_brain-ezgif.com-video-to-gif-converter.gif">
 </p >
 
 
