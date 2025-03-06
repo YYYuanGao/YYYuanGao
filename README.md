@@ -4,7 +4,6 @@
 - 🧠🔬 My current research focuses on exploring the representation of human working memory using ultra-high-field magnetic resonance imaging combined with psychophysical experiments. 🧪🌀
 
 - 💡🔍Plasticity Framework
-- **Hypothesis**: Myelin-mediated plasticity is the hidden layer between developmental critical periods and adult cognitive training effects
 
 - 📫 How to reach me : yuangaoy@outlook.com / dreamergyy@gmail.com / yyyuangao@zju.edu.cn
 
