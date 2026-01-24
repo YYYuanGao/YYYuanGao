@@ -3,9 +3,9 @@
 - 🌱 I’m a PhD candidate at Zhejiang University, affiliated with the ZIINT (Zhejiang University Interdisciplinary Institute of Neuroscience and Technology) as well as the Department of Psychology and Behavioral Sciences.
 - 🧠🔬 My current research focuses on exploring the representation of human working memory using ultra-high-field magnetic resonance imaging combined with psychophysical experiments. 🧪🌀
 
-- 💡🔍Plasticity Framework
+- 💡🔍Now: I'm focusing on revealing the coupling mechanism of microstructure and function at the laminar level of the human cortex.
 
-- 📫 How to reach me : yuangaoy@outlook.com / dreamergyy@gmail.com / yyyuangao@zju.edu.cn
+- 📫 How to reach me : yuangaoy@outlook.com / gaoy@cbs.mpg.de / yyyuangao@zju.edu.cn
 
 
 <p align="center">
